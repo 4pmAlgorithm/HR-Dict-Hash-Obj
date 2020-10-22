@@ -11,7 +11,7 @@ function sockMerchant(n, ar) {
         }
      
     }
-  
+    console.log("hey")
     console.log(dic)
     console.log(count)
       return count
